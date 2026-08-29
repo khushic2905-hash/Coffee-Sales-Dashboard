@@ -52,7 +52,25 @@ An interactive dashboard analyzing coffee sales performance, key business insigh
 
 ## Repository Contents
 Coffee-Sales-Analysis
-- 
+- Coffee sales dashboard with coffee names filter.pdf
+- Coffee sales dashboard.pdf
+- Insights- coffee sales.png
+- README.md
+- Sum and Average of money.png
+
+
+## Conclusion
+- This project demonstrates how sales data can be transformed into meaningful business insights using data visualization and analytics tools.
+
+- It also showcases my practical experience with data analysis, dashboard creation, and business intelligence.
+
+
+## License
+- The dataset used in this project is licensed under CC0 1.0 Universal (Public Domain Dedication).
+
+- The analysis and dashboard in this repository are created for educational and portfolio purposes.
+
+  
 
 
 
