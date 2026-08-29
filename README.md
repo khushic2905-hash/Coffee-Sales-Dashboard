@@ -50,7 +50,9 @@ An interactive dashboard analyzing coffee sales performance, key business insigh
 <img width="933" height="411" alt="Insights- coffee sales" src="https://github.com/user-attachments/assets/73648c9f-86a5-474a-a129-2c70c697be43" />
 
 
-
+## Repository Contents
+Coffee-Sales-Analysis
+- 
 
 
 
