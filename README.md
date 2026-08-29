@@ -23,6 +23,7 @@ An interactive dashboard analyzing coffee sales performance, key business insigh
 - Money by Cash type for different coffee types
 
 ## Dashboard Preview
+<img width="930" height="502" alt="Dashboard preview" src="https://github.com/user-attachments/assets/0fc425f4-a51b-492e-b7f2-da1b6513935d" />
 
 
 ## Key Insights
