@@ -23,7 +23,7 @@ An interactive dashboard analyzing coffee sales performance, key business insigh
 - Money by Cash type for different coffee types
 
 ## Dashboard Preview
-<img width="953" height="494" alt="Coffee sales dashboard" src="https://github.com/user-attachments/assets/95a9445a-b37a-4bbd-8454-f42df940bd42" />
+
 
 ## Key Insights
 - Total Money Generated from sales of coffee: 115,432. Money has a weak upward trend.
